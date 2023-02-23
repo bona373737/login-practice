@@ -7,10 +7,11 @@
   - Prettier
   - husky
 2. 깃브랜치 관리
+```
   main ─ develop ─┬─ feature/session   
                   ├─ feature/jwt   
                   └─ feature/oauth   
-
+```
 3. 프레임워크,빌드툴
   - React.js
   - TypeScript

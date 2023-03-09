@@ -3,14 +3,10 @@ import reactLogo from './assets/react.svg'
 import './App.css'
 
 function App() {
-  console.log("아하하")
-  var nana = "나나";
+  console.log('ddd')
+  var nana = '나나'
 
-  return (
-    <div className="App">
-
-    </div>
-  )
+  return <div className="App"></div>
 }
 
 export default App
